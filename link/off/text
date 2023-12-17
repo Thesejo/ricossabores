@@ -1,0 +1,348 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../rs.ico"> 
+
+    <title>Ricos sabores</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../bootstrap/bootstrap.min.css" rel="stylesheet">
+
+<!-- SCROOLL REVEAL JS LIBRARY CDN -->
+    <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
+
+    <!-- Custom styles for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+    <link href="css/blog.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="container">
+      <header class="blog-header py-3">
+        <div class="row flex-nowrap justify-content-between align-items-center">
+          <div class="col-4 pt-1">
+      
+          </div>
+          <div class="col-4 text-center">
+            <a class="blog-header-logo text-dark lrs  " href="#">Rs</a>
+          </div>
+          <div class="col-4 d-flex justify-content-end align-items-center">
+            
+          </div>
+        </div>
+      </header>
+
+      <div class="nav-scroller py-1 mb-2 menu d-flex flex-column align-items-center ">
+        <nav class="nav d-flex justify-content-between ">
+          <a class="p-2 text-muted" href="../../">Home</a>
+          <a class="p-2 text-muted" href="../../">R.S.</a>
+          <a class="p-2 text-muted" href="../../">Contatanos</a>
+          <a class="p-2 text-muted" href="#Dulces-navideño">Dulces navideño</a>
+          <a class="p-2 text-muted" href="#Dulces-rosas">Dulces-rosas</a>
+          <a class="p-2 text-muted" href="#cakes">Cakes</a>
+          <a class="p-2 text-muted" href="#drip-cake">drip-cake</a>
+         
+        </nav>
+      </div>
+
+      <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark ">
+        <div class="col-md-8 px-0">  <!-- mb-6 -->
+          <h1 class="display-4 font-italic enca ">Ricos sabores</h1>
+          <p class="lead my-3 enca2 ">Elige tu diseños, tus sabores y todo lo que te guste.</p>
+          <p class="lead mb-0 enca3 "><a href="#" class="text-white font-weight-bold">Los esperamos...</a></p>
+        </div>
+      </div>
+
+      <div class="row colun mb-6 " style="border: 60px ;" ><!-- mb-8 -->
+          
+          
+          
+          
+        <div class="col-md-6"  id="drip-cake">
+          <div class="card mb-4 box-shadow " style="height: 570px ;" >
+            <div class="card-body card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-warning">drip cake</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Featured post</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 27</div>
+              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+              <a href="#">Inicio</a>
+            </div>
+            <img class="img" src="../../img/drip3.jpg" 
+   alt="Card image cap">
+          </div>
+        </div>
+
+          
+        <div class="col-md-6">
+          <div class="card mb-4 box-shadow" style="height: 570px;" >
+            <div class="card-body card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-warning">drip cake</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Featured post</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 28</div>
+              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+              <a href="#">Inicio</a>
+            </div>
+            <img class="imge" src="../../img/drip2.jpg" 
+   alt="Card image cap">
+          </div>
+        </div>
+
+
+          
+        <div class="col-md-6">
+          <div class="card mb-4 box-shadow" style="height: 570px;" >
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-warning">drip cake</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Featured post</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 29</div>
+              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+              <a href="#">Inicio</a>
+            </div>
+            <img class="imge" src="../../img/drip3.jpg" 
+   alt="Card image cap">
+          </div>
+        </div>
+
+
+          
+          
+          
+          
+          
+          
+        <div class="col-md-6" id="cakes">
+          <div class="card mb-4 box-shadow" style="height: 570px;">
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-warning">cakes</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Featured post</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 12</div>
+              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+              <a href="#">Inicio</a>
+            </div>
+            <img class="" src="../../img/carcake.jpg" 
+   alt="Card image cap">
+          </div>
+        </div>
+
+             <div class="col-md-6">
+          <div class="card mb-4 box-shadow" style="height: 570px;">
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-primary">cakes</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Featured post</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 12</div>
+              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+              <a href="#">Inicio</a>
+            </div>
+            <img class="imge" src="../../img/carcakeb.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+             <div class="col-md-6">
+          <div class="card mb-4 box-shadow" style="height: 570px;">
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-danger">dulces amarillo</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Featured post</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 12</div>
+              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+              <a href="#">Inicio</a>
+            </div>
+            <img class="imge" src="../../img/carc.jpg" alt="Card image cap">
+          </div>
+        </div>
+          
+          
+          
+        <div class="col-md-6 " id="Dulces-rosas">
+          <div class="card mb-4 box-shadow" style="height: 570px;">
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-warning">adornos</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Featured post</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 12</div>
+              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+              <a href="#">Inicio</a>
+            </div>
+            <img class="imge" src="../../img/chavepeg.jpg" 
+   alt="Card image cap">
+          </div>
+        </div>
+
+             <div class="col-md-6">
+          <div class="card mb-4 box-shadow" style="height: 570px;">
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-primary">cakes</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Featured post</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 12</div>
+              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+              <a href="#">Inicio</a>
+            </div>
+            <img class="" src="../../img/pigcake.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+             <div class="col-md-6">
+          <div class="card mb-4 box-shadow" style="height: 570px;">
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-danger">dulce rosa</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Featured post</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 12</div>
+              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+              <a href="#">Inicio</a>
+            </div>
+            <img class="" src="../../img/pegpig.jpg" alt="Card image cap">
+          </div>
+        </div>
+
+
+   <div class="col-md-6" id="Dulces-navideño" >
+          <div class="card mb-4 box-shadow" style="height: 570px;">
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-success">Dulces navideño</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Post title</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 11</div>
+              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+              <a href="#">Inicio</a>
+            </div>
+        
+        
+            <img class="tarjeta" src="../../img/botanavidad.jpg" alt="Card image cap" style="height: 370px;">
+          
+        </div>
+        </div>
+
+   <div class="col-md-6">
+          <div class="card mb-4 box-shadow" style="height: 570px;">
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-success">Dulces navideño</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Post title</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 11</div>
+              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+              <a href="#">Inicio</a>
+            </div>
+        
+        
+            <img class="tarjeta" src="../../img/navidadcakes.jpg" alt="Card image cap">
+          
+        </div>
+        </div>
+
+
+        <div class="col-md-6">
+          <div class="card mb-4 box-shadow" style="height: 570px;">
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-success">Dulces navideño</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Post title</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 11</div>
+              <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to add4itional content.</p>
+              <a href="#">Inicio</a>
+            </div>
+        
+        
+            <img class="tarjeta" src="../../img/navidadd.jpg" alt="Card image cap" style="height: 370px;">
+          
+        </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+
+<script>
+      window.sr = ScrollReveal();
+
+    sr.reveal('.card', {
+      duration: 2000,
+      origin: 'bottom',
+distance: '300px'
+    });
+
+    sr.reveal('.lrs', {
+      duration: 2000,
+      origin: 'left',
+    
+    });
+     sr.reveal('.enca', {
+      duration: 2000,
+      origin: 'right',
+      distance: '400px'
+    });
+      sr.reveal('.enca2', {
+      duration: 6000,
+      origin: 'bottom',
+      distance: '400px'
+    });
+
+    sr.reveal('.enca3', {
+      duration: 4000,
+      origin: 'right',
+      distance: '500px'
+    });
+
+    sr.reveal('.menu', {
+      duration: 2000,
+      delay: 1000, 
+      origin: 'bottom'
+    });
+
+    sr.reveal('.scrou-l', {
+      duration: 2000,
+      origin: 'left',
+      distance: '300px'
+    
+    });
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+          behavior: 'smooth'
+        });
+      });
+    });
+    </script>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../js/jquery-slim.min.js"><\/script>')</script>
+    <script src="../../js/popper.min.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="../../js/holder.min.js"></script>
+   
+  </body>
+</html>
