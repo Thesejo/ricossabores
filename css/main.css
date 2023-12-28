@@ -1,26 +1,57 @@
-.navbar {
-  box-shadow: 2px 2px 5px #000;
-  opacity: 0.9;
-}
 
-.navbar {
-  margin-top: -8px;
-  background-image: linear-gradient(-90deg,  #d38312, #a83279);
-}
-.navbar  {
-  color: #228b22;
-
-
-
-}
 .navbar-brand {
 color: #a83279;
 
 }
 
-.nav-link {
-    color: orange;
+
+
+.nav-ali{
+
+  margin-top: -8px;
+  background-image: linear-gradient(-90deg,  #e9d415 ,#49d312);
+  color: #228b22;
+  box-shadow: 2px 2px 5px #000;
+  opacity: 0.9;
+
+  
 }
+
+.nav-ali ul{
+  list-style-type: none;
+  
+  padding: 0px;
+margin: 0px;
+overflow: hidden;
+
+
+
+  
+}
+
+.nav-ali a {
+  color: azure;
+text-decoration: none;
+padding: 15px;
+display: block;
+
+text-align: center;
+}
+
+
+.nav-ali a:hover {
+  color: rgba(105, 75, 52, 0.884);
+}
+
+.nav-ali li {
+  float: left;
+}
+
+
+.nav-link {
+  color: orange;
+}
+
 
 
 .nav-item  {
@@ -30,13 +61,15 @@ color: #a83279;
 
 .main-header {
   position: relative;
-  background: url(../img/melissia-suares-7dhnDG46L2E-unsplash.jpg);
+  background: url(../img/1pm.jpg);
   background-size: cover;
-  min-height 700px;
+/* min-height: 700px;  errro */
+
+ 
 }
 
 .background-overlay {
-  background: rgba(48, 51, 107,.7);
+  background: rgba(221, 207, 196, 0);
   top: 0;
   left: 0;
   width: 100%;
@@ -49,9 +82,185 @@ color: #a83279;
 
 
 
-/* change the brand and text color */
+.rs .btn {
+
+ color: rgb(238, 49, 245);
+  transition: all 0.3s ease 0;
+  border: 0;
+  border-radius: 0px;
+  
+  /* box-shadow: 2px 2px 5px #000;       sombra fina*/
+  box-shadow: 2px 2px 5px #000;
+transition: 0.3s ease 0s;
+ /* box-shadow: 0 0 10px   rgb(91, 207, 24);   sombra difusa */
+font-family: 'Agbalumo', serif;
+    font-weight:bolder;
+
+  
+
+}
+
+  
+.rs  .btn:hover {
+
+  transform: scale(1.1);
+  color: rgb(209, 0, 0);
+  transition: all 0.3s ease 0;
+  
+  
+  
+
+  
+  
+}
+ 
+.rs > h1{
+  color: rgba(81, 255, 0, 0.884);
+
+  font-weight:bolder ;
+
+}
 
 
-/* change the link color */
+.rs > h1:hover{
+  color: rgb(209, 0, 0);
+  transition: .2s;
+  font-weight:bolder ;
+}
+
+
+.rs > h5{
+  font-family: 'Agbalumo', serif;
+    font-weight:bolder;
+    color: rgb(255, 94, 0);
+  font-weight:bolder ;
+}
+
+
+.rs > h5:hover{
+  color: rgb(255, 94, 0);
+  font-weight:bolder ;
+}
+
+
+.ec {
+  justify-content: center;
+  text-align: center;
+
+  
+}
+.m-5 {
+  justify-content: center;
+  text-align: center;
+ 
+  
+}
+
+.div-redes {
+  justify-content: center;
+
+  
+}
+
+
+
+.card-container {
+ width: 100%;
+
+ 
+ justify-content: center;
+
+}
+
+.img-fluid  {
+  
+  text-align: center;
+ 
+  
+  border-radius: 50%;
+  aspect-ratio: 1/1 ;
+
+  object-fit: cover;
+ 
+
+margin: 20px 30px ; /* espacoio entre la imagen y h3 */
+
+
+
+transition: .2s;
+} 
+
+
+
+ .rf .img-fluid  {
+  
+  
+ 
+  
+  border-radius: 50%;
+  aspect-ratio: 1/1 ;
+  width:150px ;
+  object-fit: cover;
+  box-shadow: 0 0 10px   rgb(91, 207, 24); 
+
+margin: 20px 30px ; /* espacoio entre la imagen y h3 */
+
+
+
+transition: .2s;
+} 
+
+
+
+
+
+.rf .img-fluid:hover {
+
+box-shadow: 0 0 12px   rgb(252, 21, 221);  
+
+
+
+
+}  
+
+
+
+.dswf .img-fluid {
+  
+  border-radius: 50%;
+  aspect-ratio: 1/1 ;
+  width:150px ;
+  object-fit: cover;
+  box-shadow: 0px 0px 6px  rgb(0, 0, 0);
+
+margin: 20px 30px ; /* espacoio entre la imagen y h3 */
+
+
+
+transition: .2s;
+} 
+
+
+
+
+
+.dswf .img-fluid:hover {
+
+box-shadow: 0 0 12px  rgb(0, 60, 255); 
+
+
+
+
+}  
+
+
+/* 
+
+.card-body {
+
+box-shadow :1px 1px 4px 2px  rgba(221, 207, 196, 0); ;
+
+}  
+change the link color */
 
 /* change the color of active or hovered links */
